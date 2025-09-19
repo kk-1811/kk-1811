@@ -24,5 +24,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kishxre_k)
 
 <p align="right">
-  <img src="assets/chibi.png" alt="sticker" width="110"/>
+  <img src="chibi" alt="sticker" width="110"/>
 </p>
