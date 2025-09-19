@@ -1,5 +1,10 @@
 # Hi 👋! My name is Kishore and I'm a Programmer from India...
 
+### ⚡ GitHub Stats
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
 
 ### 🛠 Languages and Tools
 <p align="left">
